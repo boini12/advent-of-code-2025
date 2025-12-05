@@ -2,7 +2,7 @@ import re
 
 from Dial import Dial
 
-filename = "Day1/input.txt"
+filename = "Day1/Part1/input.txt"
 startNumber = 50
 
 dial = Dial(startNumber)
